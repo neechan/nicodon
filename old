@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<!--
+	Aerial 1.0 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Run Rasta Run Beta</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-53167817-1', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="css/style-noscript.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="loading">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Run Rasta Run</h1>
+						<p>Nicodon &nbsp;&bull;&nbsp; Jamaican &nbsp;&bull;&nbsp; Indie &nbsp;&bull;&nbsp; Game Developers</p>
+						<p>Latest build 7/24/2014 12:21PM</p>
+						<nav>
+							<ul>								
+								<li><a href="https://www.facebook.com/nicodongamesllc" class="fa fa-facebook"><span>Facebook</span></a></li>
+								<li><a href="lrskh-m.apk" class="fa fa-download"><span>Download Beta</span></a></li>
+								<li><a href="mailto:sheldon.eight@gmail.com" class="fa fa-envelope-o"><span>Email</span></a></li>
+							</ul>
+						</nav>
+						<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9042151957243157";
+/* nicodon-games-ad */
+google_ad_slot = "2969259421";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+					</header>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<span class="copyright">&copy; Nicodon Games LLC.</span>
+						<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT, autoDisplay: false}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+					</footer>
+				
+			</div>
+		</div>
+	</body>
+</html>
